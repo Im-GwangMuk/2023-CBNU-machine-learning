@@ -1,1 +1,1 @@
-# 2023-CBNU-machine-learning
+# 2023 기계학습 실습자료 
